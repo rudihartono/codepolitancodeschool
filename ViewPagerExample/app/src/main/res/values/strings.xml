@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViewPagerExample</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_news_fragment">Hello news fragment</string>
+    <string name="hello_tutorial_fragment">Hello tutorial fragment</string>
+    <string name="hello_info_fragment">Hello info fragment</string>
+    <string name="title_activity_tab_layout_image">TabLayoutImage</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
